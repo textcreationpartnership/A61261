@@ -1,0 +1,494 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A dialogue between a blind man and death</title>
+            <author>Standfast, Richard, 1608?-1684.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A61261</idno>
+            <idno type="STC">Wing S5208A</idno>
+            <idno type="STC">ESTC R221861</idno>
+            <idno type="EEBO-CITATION">99833108</idno>
+            <idno type="PROQUEST">99833108</idno>
+            <idno type="VID">37583</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A61261)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 37583)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2063:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A dialogue between a blind man and death</title>
+                  <author>Standfast, Richard, 1608?-1684.</author>
+               </titleStmt>
+               <extent>8p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1700?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Death --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="dialogue">
+            <pb n="1" facs="tcp:37583:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 67 -->
+            <head>A DIALOGUE BETWEEN <hi>A Blind Man</hi> AND DEATH.</head>
+            <sp>
+               <speaker>Bl. M.</speaker>
+               <l>THE more Men ſee, the leſs they do enquire;</l>
+               <l>The worſe they ſee, the more they do deſire</l>
+               <l>Others to grant, what Blindneſs cannot give,</l>
+               <l>And for Intelligence grow Inquiſitive;</l>
+               <l>They ask to be inform'd, who cannot ſee;</l>
+               <l>I know't by Sad Experience, Wo is me!</l>
+            </sp>
+            <sp>
+               <speaker>Death.</speaker>
+               <l>Where are you, Sir? What, ſitting all alone?</l>
+               <l>I did ſuppoſe 'twas you by that Sad Moan:</l>
+               <l>Coming this way to gather what's my due,</l>
+               <l>I thought it not amiſs to call on you.</l>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <l>I do not know that Voice, 'tis ſure ſome Stranger,</l>
+               <l>And by his words, he ſeems to Boad me Danger.</l>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <l>You gueſs aright, Sir, and before I go,</l>
+               <l>I'le make you know me whether you will or no.</l>
+            </sp>
+            <pb facs="tcp:37583:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 68 -->
+            <pb n="1" facs="tcp:37583:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 68 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="2" facs="tcp:37583:3"/>
+            <!-- PDF PAGE 69 -->
+            <sp>
+               <speaker>B.</speaker>
+               <l>Why, what are you? Pray tell me, what's your name?</l>
+               <l>And what's your Buſineſs? and from whence you came?</l>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <l>I will declare what no Man can deny:</l>
+               <l>There's none ſo great a Traveller as I;</l>
+               <l>Yet you muſt know I am no wandring Rover,</l>
+               <l>For my Dominion lies the World all over:</l>
+               <l>I March through Court and Country, Town and City;</l>
+               <l>I know neither how to Fear, nor how to Pity.</l>
+               <l>The higheſt Cedar, and the loweſt Flower,</l>
+               <l>Sooner or later do both feel my Power:</l>
+               <l>The mighty'ſt Emperours do Submit to me,</l>
+               <l>Nor is the pooreſt Tatter'd Beggar free:</l>
+               <l>In Peace I Glean here one, and there another;</l>
+               <l>Sometimes I ſweep away whole Streets together.</l>
+               <l>In times of War, thus much I can Divine,</l>
+               <l>Whoever gets the Day, the Triumph's Mine.</l>
+               <l>I am indeed a very great Commander;</l>
+               <l>'Twas I that Conquer'd that Great <hi>Alexander:</hi>
+               </l>
+               <l>And after all the Victories he wan,</l>
+               <l>Compell'd him to Confeſs, he was a Man.</l>
+               <l>Were you <hi>Goliah</hi> great, or <hi>Sampſon</hi> ſtrong,</l>
+               <l>Were you as Wiſe, as Rich as <hi>Solomon;</hi>
+               </l>
+               <l>Were you as <hi>Neſtor</hi> Old, as Infant Young;</l>
+               <l>Had you the faireſt Cheek, the ſweeteſt Tongue:</l>
+               <l>Yet you muſt ſtoop, all theſe will nought avail,</l>
+               <l>For my Arreſts do not admit of Bail;</l>
+               <l>For to deal plainly, Sir, my Name is <hi>Death,</hi>
+               </l>
+               <l>And 'tis my Buſineſs to Demand your Breath.</l>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <l>My Breath and Life ſhall both go out together.</l>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <l>And on that Errand 'twas that I came hither:</l>
+               <l>I'le have both Breath and Life without delay,</l>
+               <l>You muſt and ſhall diſpatch: Come, Come away.</l>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <l>What need ſuch poſting haſte? pray change your Mind,</l>
+               <l>'Tis a poor Conqueſt to Surpriſe the Blind.</l>
+            </sp>
+            <pb n="3" facs="tcp:37583:3"/>
+            <!-- PDF PAGE 69 -->
+            <sp>
+               <speaker>D.</speaker>
+               <l>You may not call it Poſting, nor Surpriſe;</l>
+               <l>For you had warning when you loſt your Eyes:</l>
+               <l>Nor could you hope your Houſe ſhould long be free,</l>
+               <l>After the Windows were poſſeſs'd by me.</l>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <l>But Life is ſweet; who would not, if he might,</l>
+               <l>Have a long Day before he bid good Night?</l>
+               <l>O ſpare me yet a while, ſlight not my Tears;</l>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <l>Hard Hearts, and Hungry Bellies, have no Ears.</l>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <l>I am not yet quite ready for the Table.</l>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <l>All's one to me, I am Inexorable.</l>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <l>Yet by your favour I may ſtep aſide;</l>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <l>Be not deceiv'd, for 'tis in vain to hide;</l>
+               <l>My Forces are diſperſed through all Places,</l>
+               <l>And Act for me without reſpect of Faces;</l>
+               <l>I have a Thouſand ways to ſhorten Life,</l>
+               <l>Beſides a Rapier, Piſtol, Sword and Knife;</l>
+               <l>A Fly, an Hair, the Splinter of a Thorn,</l>
+               <l>A little Scratch, the cutting of a Corn</l>
+               <l>Have ſometimes done my Buſineſs heretofore</l>
+               <l>So to the full, that I need wiſh no more;</l>
+               <l>Should all theſe fail, enough of Humours lurk</l>
+               <l>Within your Body, Sir, to do my work.</l>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <l>Well then, let ſome one Run for my Phyſitian,</l>
+               <l>Tell him I want his Aid in this Condition.</l>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <l>Run Boy, and fetch him, call the whole College, do,</l>
+               <l>For I intend to have them ſhortly too;</l>
+               <l>I value not their Potions, nor their Pills;</l>
+               <l>Nor all the Cordials in the Doctors Bills;</l>
+               <l>When my Time's come, let them do what they can,</l>
+               <l>We have my due, ſo vain a thing is Man!</l>
+               <pb n="4" facs="tcp:37583:4"/>
+               <!-- PDF PAGE 70 -->
+               <l>Should <hi>Galen</hi> and <hi>Hipocrates</hi> both join,</l>
+               <l>And <hi>Paracelſus</hi> too, with them Combine,</l>
+               <l>Let them all meet to Countermine my ſtrength,</l>
+               <l>Yet ſhall they be my Priſoners all, at length:</l>
+               <l>I grant, that Men of Learning, Worth, and Art,</l>
+               <l>May have the better of me at the Start.</l>
+               <l>But in long running they'l give out, and tire,</l>
+               <l>And quit the Field, and leave me my deſire;</l>
+               <l>As for thoſe Quacks who Threaten to undo me,</l>
+               <l>They are my Friends, and ſpeed ſome Patients to me,</l>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <l>Well, if I muſt, I will yield you the Day:</l>
+               <l>'Tis ſo Enacted, and I muſt Obey;</l>
+               <l>Henceforth I'le count my ſelf among your Debtors:</l>
+               <l>For 'tis I ſee the meaſure of my Betters,</l>
+               <l>But tell me now, When did your Power Commence?</l>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <l>My Power began from <hi>Adam</hi>'s firſt Offence.</l>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <l>From <hi>Adam</hi>'s firſt Offence? O baſe Beginning?</l>
+               <l>Whoſe very firſt Original was Sinning.</l>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <l>My Riſing did from <hi>Adam</hi>'s Fall begin,</l>
+               <l>And ever ſince my ſtrength and ſting's from Sin.</l>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <l>To know wherein the Enemy's ſtrength doth lie,</l>
+               <l>In my Conceit, is half a Victory,</l>
+               <l>Have you Commiſſion now for what you do?</l>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <l>I have Commiſſion, What's all this to you?</l>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <l>Yes, very much; for now I underſtand,</l>
+               <l>I am not altogether at your Command:</l>
+               <l>My Life's at his who gave you this Commiſſion;</l>
+               <l>To him I'le therefore make with my Petition;</l>
+               <l>I'le ſeek his Love, and on his Mercy truſt,</l>
+               <l>And when my ſins are Pardon'd, do your worſt.</l>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <l>That you may know how far my Power Extends,</l>
+               <l>I will Divorſe you from your deareſt Friends;</l>
+               <pb n="5" facs="tcp:37583:4"/>
+               <!-- PDF PAGE 70 -->
+               <l>You ſhall reſign your Jewels, Money, Plate;</l>
+               <l>Your Earthly Joys ſhall all be out of date;</l>
+               <l>I will deprive you of your dainty Fare;</l>
+               <l>I'le ſtrip you to your Skin, Naked and Bare;</l>
+               <l>Linnen or Woolen you ſhall have to wind you,</l>
+               <l>As for the reſt, all muſt be left behind you:</l>
+               <l>Bound Hand and Foot I'le bring you to my Den,</l>
+               <l>Where conſtant, Dreadful Darkneſs Reigns; and then</l>
+               <l>Your only Dwelling-Houſe ſhall be a Cave,</l>
+               <l>Your Lodging Room, a little narrow Grave,</l>
+               <l>A Cheſt your Cloſet, and a Sheet your Dreſs;</l>
+               <l>And your Companions, Worms and Rottenneſs.</l>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <l>If this be all the Miſchief you can do,</l>
+               <l>Your Harbingers deſerve more Dread than you:</l>
+               <l>Diſeaſes are your Harbingers I am ſure,</l>
+               <l>Many of which, 'tis grievous to endure;</l>
+               <l>But when once Dead, I ſhall not then complain</l>
+               <l>Of Cold or Hunger, Poverty or Pain.</l>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <l>There's one thing more, which here to mind I call,</l>
+               <l>When once I come, then come I once for all;</l>
+               <l>And when my ſtroak doth Soul and Body Sever,</l>
+               <l>What's left undone, muſt be undone for Ever.</l>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <l>That's a great Truth, and I have learn't to know,</l>
+               <l>That there's no Working in the Grave below;</l>
+               <l>To be before-hand therefore I will try,</l>
+               <l>That then I may have nought to do but Die:</l>
+               <l>But tell me, Sir, do all Men Die alike?</l>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <l>To me they do, for whom God bids, I ſtrike,</l>
+               <l>Look how the Fooliſh Die, ſo Die the Wiſe,</l>
+               <l>As do the Righteous, ſo the Sinner Dies;</l>
+               <l>The greateſt difference will appear hereafter,</l>
+               <l>But that's a thing that is beyond my Charter.</l>
+               <l>That I to ſome prove better, to ſome worſe,</l>
+               <l>To ſome a Bleſſing, and to ſome a Curſe,</l>
+               <l>That's none of mine, I may not undertake it,</l>
+               <l>'Tis God's appointment, and Mens works that make it.</l>
+               <pb n="6" facs="tcp:37583:5"/>
+               <!-- PDF PAGE 71 -->
+               <l>Hence 'tis that Sinners Troubles never Ceaſe,</l>
+               <l>And that the Upright Man his End is Peace.</l>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <l>There now remains but only one thing more:</l>
+               <l>Will not your Power be one Day out of Door?</l>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <l>Muſt I needs tell you, Sir? 'tis certain true,</l>
+               <l>There is a Death for me as well as you,</l>
+               <l>And mine's the worſe, for I muſt Die for Ever,</l>
+               <l>You may Revive again, but I ſhall Never.</l>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <l>By all that hath been ſaid, now I do ſee,</l>
+               <l>You needed not have been ſo rough with me.</l>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <l>Come, let that paſs; The kinder to appear,</l>
+               <l>I will reveal a Secret in your Ear.</l>
+               <l>The Death of Chriſt upon the painful Croſs,</l>
+               <l>Which ſeem'd to be my Gain, turn'd to my Loſs:</l>
+               <l>All in his Hair the Strength of <hi>Sampſon</hi> lay,</l>
+               <l>All with his Hair went <hi>Sampſon</hi>'s Strength away.</l>
+               <l>I have no ſtrength but what I had from Sin,</l>
+               <l>I have no ſting but what lies hid therein;</l>
+               <l>Chriſt Suffering Death to put this Sin away,</l>
+               <l>Hath made me his, whom I ſuppos'd my Prey;</l>
+               <l>My ſtrength is now Decay'd, my ſting Rebated,</l>
+               <l>My Boldneſs Checkt, and my Dominion Mated;</l>
+               <l>And I am now both Faint and Feeble grown,</l>
+               <l>Much like to <hi>Sampſon,</hi> when his Hair was gone;</l>
+               <l>In my own Craft I was completly Routed;</l>
+               <l>My Jaws were broken, and my Holders Outed:</l>
+               <l>What now I Catch I have no Power to keep,</l>
+               <l>My very Name is chang'd from Death, to Sleep.</l>
+               <l>'Tis true, I ſeiz'd on Chriſt, and had him down,</l>
+               <l>And Bound him in a Priſon of my own;</l>
+               <l>But all my ſtrongeſt Doors, Bars, Bolts, and Bands,</l>
+               <l>Were but meer Nothings in his Mighty Hands:</l>
+               <l>He broke through all, and left my Doors wide Ope,</l>
+               <l>And all his Servants Priſoners of Hope;</l>
+               <l>For though they Die, yet with Devout Affection</l>
+               <l>They do expect a Joyful Reſurrection;</l>
+               <pb n="7" facs="tcp:37583:5"/>
+               <!-- PDF PAGE 71 -->
+               <l>And with their Maſter to be brought again,</l>
+               <l>That they with him for ever may remain.</l>
+               <l>Thus Chriſt by Dying did become Victorious,</l>
+               <l>And from his Bed of Darkneſs roſe more Glorious.</l>
+               <l>And I by Binding him, made my ſelf Faſt,</l>
+               <l>And his, I know, will prove my Death at Laſt.</l>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <l>Theſe words give Comfort, and Inſtruction too,</l>
+               <l>Henceforth I ſhall be better pleas'd with you.</l>
+               <l>Decree'd it is for all Men once to Die,</l>
+               <l>After that Judgment, then Eternity.</l>
+               <l>To Prayer therefore will I join Endeavour,</l>
+               <l>So to Live here, that I may Live for Ever:</l>
+               <l>And ſeeing they that have, and keep Chriſt's words,</l>
+               <l>Whether they Live or Die, be all the Lords,</l>
+               <l>Repentance, Faith, and New-obedience ſhall</l>
+               <l>Fit and prepare me for my Funeral;</l>
+               <l>From whence I truſt my Saviour will Tranſlate me</l>
+               <l>In Seaſon due, beyond their reach that Hate me;</l>
+               <l>Even to that place of Life and Glory too,</l>
+               <l>Where neither Death, nor Sin, hath ought to do:</l>
+               <l>This Hope in me, that Word of his doth Cheriſh,</l>
+               <l>
+                  <hi>He that Believes in me ſhall never Periſh.</hi>
+               </l>
+               <l>Now welcome Death upon my Saviours Score,</l>
+               <l>Who would not Die to Live for Evermore?</l>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <l>Sir, I perceive you ſpeak not without Reaſon,</l>
+               <l>I'le leave you now, and call ſome other Seaſon.</l>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <l>Call when you pleaſe, I will await that Call,</l>
+               <l>And while I ſtand, make ready for my Fall:</l>
+               <l>In the mean time, my conſtant Prayers ſhall be,</l>
+               <l>From Sudden, and from Endleſs Death</l>
+            </sp>
+            <p>
+               <hi>Good Lord deliver me.</hi>
+            </p>
+            <pb n="8" facs="tcp:37583:6"/>
+            <!-- PDF PAGE 72 -->
+            <epigraph>
+               <q>
+                  <l>
+                     <hi>Judg not of Death by Senſe, leſt you miſtake it:</hi>
+                  </l>
+                  <l>
+                     <hi>Death's neither Friend nor Foe, but as you make it.</hi>
+                  </l>
+                  <l>
+                     <hi>Live as you ſhould, you need not to Complain,</hi>
+                  </l>
+                  <l>
+                     <hi>For where to Live is Chriſt, to Die is Gain.</hi>
+                  </l>
+               </q>
+            </epigraph>
+            <closer>
+               <signed>R. S.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:37583:6"/>
+            <!-- PDF PAGE 72 -->
+         </div>
+      </body>
+   </text>
+</TEI>
